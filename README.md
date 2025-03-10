@@ -28,17 +28,8 @@ Premium subscriptions can be managed directly through your App Store account set
 
 If you need assistance with Datelytics AI, please email us at:
 
-[support@datelytics.ai](mailto:support@datelytics.ai)
-
-We aim to respond to all inquiries within 48 hours.
-
-## Privacy Policy
-
-Our privacy policy can be found [here](https://www.privacypolicy.com/your-policy-link).
-
-## Terms of Service
-
-Our terms of service can be found [here](https://www.termsofservice.com/your-terms-link).
+[erkutter@gmail.com](mailto:erkutter@gmail.com)
+ 
 
 ---
 
