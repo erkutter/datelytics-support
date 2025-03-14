@@ -1,65 +1,8 @@
-# Datelytics AI Support
-
-## Table of Contents
-
-1.  [About Datelytics AI](#about-datelytics-ai)
-2.  [Frequently Asked Questions](#frequently-asked-questions)
-    *   [How does Datelytics AI work?](#how-does-datelytics-ai-work)
-    *   [How many photos can I analyze?](#how-many-photos-can-i-analyze)
-    *   [Is my data secure?](#is-my-data-secure)
-    *   [Which dating apps does this work with?](#which-dating-apps-does-this-work-with)
-    *   [Does the app require an internet connection?](#does-the-app-require-an-internet-connection)
-    *   [How do I cancel my subscription?](#how-do-i-cancel-my-subscription)
-3.  [Contact Support](#contact-support)
-4.  [Privacy Policy](#privacy-policy)
-    *   [1. Introduction](#1-introduction)
-    *   [2. Information We Collect](#2-information-we-collect)
-    *   [3. How We Use Your Information](#3-how-we-use-your-information)
-    *   [4. Photo Processing and Storage](#4-photo-processing-and-storage)
-    *   [5. Data Sharing and Third Parties](#5-data-sharing-and-third-parties)
-    *   [6. Data Retention and Deletion](#6-data-retention-and-deletion)
-    *   [7. Your Privacy Rights](#7-your-privacy-rights)
-    *   [8. Data Security](#8-data-security)
-    *   [9. Children's Privacy](#9-childrens-privacy)
-    *   [10. Changes to This Privacy Policy](#10-changes-to-this-privacy-policy)
-    *   [11. Contact Us](#11-contact-us)
-    *  [12. APP STORE DISCLAIMER](#12-app-store-disclaimer)
-
-## About Datelytics AI {#about-datelytics-ai}
-
-Datelytics AI is a dating profile photo analyzer that helps you optimize your dating app profiles. Our AI technology analyzes your profile photos and provides expert feedback to help you get more quality matches.
-
-## Frequently Asked Questions {#frequently-asked-questions}
-
-### How does Datelytics AI work? {#how-does-datelytics-ai-work}
-Upload your dating profile photos to the app, and our AI will analyze them to provide feedback on which photos to keep, remove, or reorder for maximum impact.
-
-### How many photos can I analyze? {#how-many-photos-can-i-analyze}
-Free users can analyze up to 4 photos. Premium subscribers can analyze up to 6 photos for more comprehensive profile optimization.
-
-### Is my data secure? {#is-my-data-secure}
-Yes. We take privacy very seriously. Your photos are processed securely and are not stored permanently on our servers. We do not share your information with third parties.  For detailed information, please see our [Privacy Policy](#privacy-policy) below.
-
-### Which dating apps does this work with? {#which-dating-apps-does-this-work-with}
-Datelytics AI works with photos for any dating platform including Tinder, Bumble, Hinge, OkCupid, and more.
-
-### Does the app require an internet connection? {#does-the-app-require-an-internet-connection}
-Yes, an internet connection is required for the AI analysis to work.
-
-### How do I cancel my subscription? {#how-do-i-cancel-my-subscription}
-Premium subscriptions can be managed directly through your App Store account settings.
-
-## Contact Support {#contact-support}
-
-If you need assistance with Datelytics AI, please email us at:
-
-[erkutter@gmail.com](mailto:erkutter@gmail.com)
-
 ## Privacy Policy {#privacy-policy}
 
 **PRIVACY POLICY FOR DATING PROFILE ANALYZER**
 
-**Last Updated: March 10, 2025**
+**Last Updated: March 14, 2025**
 
 ### 1. INTRODUCTION {#1-introduction}
 
@@ -96,8 +39,8 @@ We use the information we collect to:
 
 **4.1 Photo Processing**
 
-*   Your photos are transmitted to Google Gemini API (our AI service provider) for analysis.
-*   Photos are transmitted securely and are not permanently stored by Google beyond what is necessary for processing.
+*   Your photos are transmitted to Claude AI (by Anthropic) (our AI service provider) for analysis.
+*   Photos are transmitted securely and are not permanently stored by Claude AI beyond what is necessary for processing.
 *   Only the resulting text analysis is stored in our database, *not* your actual photos.
 
 **4.2 Local Storage**
@@ -105,13 +48,27 @@ We use the information we collect to:
 *   Your photos and related data are primarily stored locally on your device.
 *   We do *not* maintain copies of your photos on our servers after analysis is complete.
 
+**4.3 Face Data**
+
+Datelytics AI does not collect, process, or store biometric or face data from user photos. Important clarifications regarding face data:
+
+* We do not perform facial recognition on uploaded photos
+* We do not extract, measure, or retain any facial features, facial geometry, or biometric identifiers
+* While your photos may contain faces, we do not specifically process face data
+* Photos are temporarily shared with our AI technology partner (Claude AI by Anthropic) solely for general composition and content analysis, not for facial recognition or biometric purposes
+* No face data is extracted, stored, or shared with third parties
+* Photos remain stored only on your device and are not permanently stored on our servers
+* We do not build user profiles based on facial characteristics or use face data for any purpose
+
+Our photo analysis is focused on general aspects like lighting, composition, background, and overall impression - not on processing specific facial data.
+
 ### 5. DATA SHARING AND THIRD PARTIES {#5-data-sharing-and-third-parties}
 
 **5.1 Service Providers**
 
 We share limited information with the following service providers:
 
-*   **Google Gemini API:** We transmit your photos to Google Gemini API *solely* for AI-powered analysis. Google processes these photos in accordance with their privacy policy.
+*   **Claude AI (by Anthropic):** We transmit your photos to Claude AI *solely* for AI-powered analysis. Claude processes these photos in accordance with their privacy policy.
 
 **5.2 Legal Requirements**
 
@@ -184,7 +141,3 @@ Email: privacy@datelyticsai.com
 
 ### 12. APP STORE DISCLAIMER {#12-app-store-disclaimer}
 This App is distributed through the Apple App Store. Apple is not responsible for the App or its content and does not collect or process data on our behalf. This Privacy Policy applies only to our processing of your information.
-
----
-
-© 2025 Datelytics AI. All rights reserved.
