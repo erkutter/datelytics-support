@@ -1,3 +1,60 @@
+# Datelytics AI Support
+
+## Table of Contents
+
+1.  [About Datelytics AI](#about-datelytics-ai)
+2.  [Frequently Asked Questions](#frequently-asked-questions)
+    *   [How does Datelytics AI work?](#how-does-datelytics-ai-work)
+    *   [How many photos can I analyze?](#how-many-photos-can-i-analyze)
+    *   [Is my data secure?](#is-my-data-secure)
+    *   [Which dating apps does this work with?](#which-dating-apps-does-this-work-with)
+    *   [Does the app require an internet connection?](#does-the-app-require-an-internet-connection)
+    *   [How do I cancel my subscription?](#how-do-i-cancel-my-subscription)
+3.  [Contact Support](#contact-support)
+4.  [Privacy Policy](#privacy-policy)
+    *   [1. Introduction](#1-introduction)
+    *   [2. Information We Collect](#2-information-we-collect)
+    *   [3. How We Use Your Information](#3-how-we-use-your-information)
+    *   [4. Photo Processing and Storage](#4-photo-processing-and-storage)
+    *   [5. Data Sharing and Third Parties](#5-data-sharing-and-third-parties)
+    *   [6. Data Retention and Deletion](#6-data-retention-and-deletion)
+    *   [7. Your Privacy Rights](#7-your-privacy-rights)
+    *   [8. Data Security](#8-data-security)
+    *   [9. Children's Privacy](#9-childrens-privacy)
+    *   [10. Changes to This Privacy Policy](#10-changes-to-this-privacy-policy)
+    *   [11. Contact Us](#11-contact-us)
+    *  [12. APP STORE DISCLAIMER](#12-app-store-disclaimer)
+
+## About Datelytics AI {#about-datelytics-ai}
+
+Datelytics AI is a dating profile photo analyzer that helps you optimize your dating app profiles. Our AI technology analyzes your profile photos and provides expert feedback to help you get more quality matches.
+
+## Frequently Asked Questions {#frequently-asked-questions}
+
+### How does Datelytics AI work? {#how-does-datelytics-ai-work}
+Upload your dating profile photos to the app, and our AI will analyze them to provide feedback on which photos to keep, remove, or reorder for maximum impact.
+
+### How many photos can I analyze? {#how-many-photos-can-i-analyze}
+Free users can analyze up to 4 photos. Premium subscribers can analyze up to 6 photos for more comprehensive profile optimization.
+
+### Is my data secure? {#is-my-data-secure}
+Yes. We take privacy very seriously. Your photos are processed securely and are not stored permanently on our servers. We do not share your information with third parties.  For detailed information, please see our [Privacy Policy](#privacy-policy) below.
+
+### Which dating apps does this work with? {#which-dating-apps-does-this-work-with}
+Datelytics AI works with photos for any dating platform including Tinder, Bumble, Hinge, OkCupid, and more.
+
+### Does the app require an internet connection? {#does-the-app-require-an-internet-connection}
+Yes, an internet connection is required for the AI analysis to work.
+
+### How do I cancel my subscription? {#how-do-i-cancel-my-subscription}
+Premium subscriptions can be managed directly through your App Store account settings.
+
+## Contact Support {#contact-support}
+
+If you need assistance with Datelytics AI, please email us at:
+
+[erkutter@gmail.com](mailto:erkutter@gmail.com)
+
 ## Privacy Policy {#privacy-policy}
 
 **PRIVACY POLICY FOR DATING PROFILE ANALYZER**
@@ -141,3 +198,7 @@ Email: privacy@datelyticsai.com
 
 ### 12. APP STORE DISCLAIMER {#12-app-store-disclaimer}
 This App is distributed through the Apple App Store. Apple is not responsible for the App or its content and does not collect or process data on our behalf. This Privacy Policy applies only to our processing of your information.
+
+---
+
+© 2025 Datelytics AI. All rights reserved.
